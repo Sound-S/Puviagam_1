@@ -1,0 +1,183 @@
+@charset "UTF-8";
+
+body
+{
+	background-color:#E4E4E4;
+	font-family: Verdana;
+}
+
+
+    
+.dis_back
+{
+   
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 30%;
+    margin-top: 150px;
+    border-radius: 10px;
+   
+}
+.dis_back .buttonw{
+    width: 40%;
+    text-align: center
+    
+}
+
+.buttonw{
+	width:40%;
+	text-align:center;
+	
+}
+
+.Login_title
+{
+	padding-bottom:15px;
+}
+
+
+/* Registration Page_Admin*/
+
+
+.dis_back2
+{
+    background-color: rgb(255, 255, 255);
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 38%;
+    border-radius: 10px;
+    margin-top: 100px;
+    padding-top: 20px;
+    
+    
+}
+
+.dis_back2 .buttonw{
+  width: 40%;
+  text-align: center;
+  
+}
+
+
+ 
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+   .admindash{
+	margin-top:25px;
+	margin-left:19px;
+}
+
+.admindash_row2
+{
+	margin-top:80px;
+	margin-left:21px;
+}
+
+.admindash_row3
+{
+	margin-top:60px;
+	
+	margin-left:100px;
+}
+
+.div_icons
+{
+	vertical-align: middle;
+  width: 28px;
+  height: 28px;
+  /*border-radius: 50%;*/
+}
+.div_details{
+	border-radius: 10px;
+}
+
+
+/* static page*/
+
+#carouselExampleAutoplaying .carousel-item img 
+{  
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    height:90.5vh;
+}
+
+#tagline
+{
+font-size: 30px;
+font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.box1, .box2
+{
+padding: 5%;
+}
+
+.about_div
+{
+padding-top: 15px;
+padding-right: 15px;
+width: 60%;
+}
+
+#about-heading
+{
+  text-align: center;
+}
+
+.dis_back1
+{
+    background-color: rgb(0, 0, 0);
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 70%;
+    border-radius: 10px;
+}
+
+.contact_div
+{
+margin-top: 130px;
+}
+
+.inner_contact
+{
+  padding-top: 150px;
+}
+
+.heading_enquiry
+{
+  padding-bottom: 20px;
+}
+
+/* End static page*/
+
+/* customer_details*/
+
+#showcustomerdetails
+{
+	margin-top:40px;
+	/*background-color:white;*/
+}
+
+/* for estimation finding details */
+
+/* forgot password */
+
+.dis_back5{
+	  padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 30%;
+    margin-top: 150px;
+    border-radius: 10px;
+    background-color:red;
+}
+
